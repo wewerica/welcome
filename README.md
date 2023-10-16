@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wewerica/wewerica/output/snake.svg" alt="Snake animation" />
-
 ###
